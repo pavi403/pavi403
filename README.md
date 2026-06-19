@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Pavithra V 👋
 
-<!--
-**pavi403/pavi403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Passionate about transforming data into meaningful insights using Excel, SQL, Power BI, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+* Microsoft Excel
+* SQL (MySQL)
+* Power BI
+* Python
+* Data Cleaning
+* Data Visualization
+* Dashboard Development
+
+### Projects
+
+* Library Management Dashboard (Excel)
+* Sales Dashboard (Excel)
+* SQL Data Analysis Project
+* Power BI Dashboard
+
+### Certification
+
+* Data Analytics Certification – Besant Technologies
+
+### Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/pavithra-veera-43a694224](http://www.linkedin.com/in/pavithra-veera-43a694224)
+* GitHub: github.com/pavi403
+
+### Currently Learning
+
+* Advanced SQL
+* Python for Data Analytics
+* Power BI Dashboard Development
+
